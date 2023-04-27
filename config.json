@@ -1,0 +1,7 @@
+{
+  "prefix": "Prefix",
+  "main_token": "Put-Token-Here",
+  "mongodb_url": "Mongo-DB-URL",
+  "developers": ["Owner-Id"],
+  "bot_name":"Nova | World"
+}
